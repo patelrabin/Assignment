@@ -1,3 +1,4 @@
+
 const arr =  [3,5,2]
 //Q1 calculate length of array and console log (Complet)
 //expected output is 3
@@ -8,18 +9,14 @@ console.log(lengthofarray);
 //console.log(lengthofarray);)
 
 
-
-
 //Q2 reverse the array and console log (Complet)
 //expected output [2,5,3]
 const reversearr = arr.reverse(); 
 console.log(reversearr);
 
 
-
 ///Q3 join the array and console log (Complet)
 // expected output 352  or 253
-
 const joinarr = arr.join('');
 console.log(joinarr);
 
